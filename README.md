@@ -1,4 +1,4 @@
-## CSS Transformations - Challenge 2
+### Code Institiute - CSS Transformations - Challenge 2
 
 ***
      ____  _   _ ____ _____ _   _ ____ ___ ___  
@@ -9,28 +9,28 @@
     -------------------------------------------
     .design
     
-***  
-title: **'CSS Transformations - Challenge 2'**
+***
 
-description: **'Use the rotate function to spin an image infinitely. The image should rotate without any breaks and stops. Don't forget to give your animation a name! In the hint tab, you'll find a link to boilerplate files to help get you started.'**
+***
+#### project url: **'https://davidhubber.github.io/ci-css_transformations-css_transformations-challenge-2/'**
+***
+title: **'Code Institiute - CSS Transformations - Challenge 2'**
 
-author: **[DHSTUDIO](https://dhstudio.design "Title")** 
+description: **Use the rotate function to spin an image infinitely. The image should rotate without any breaks and stops. Don't forget to give your animation a name! In the hint tab, you'll find a link to boilerplate files to help get you started.**
+
+author: **[DHSTUDIO](https://dhstudio.design "DHSTUDIO")** 
 
 author url: **<https://dhstudio.design>** 
 
-technology: **This project was written in HTML & CSS using [AWS Cloud9](https://aws.amazon.com/cloud9/ "Cloud9")**
-
-project url: **'https://davidhubber.github.io/css_transformations-css_transformations-challenge-2/'**  
+technology: **This project was written in HTML & CSS using [AWS Cloud9](https://aws.amazon.com/cloud9/ "Cloud9")** 
 
 
 ***
-
-#### This website was built as part of the learning material for Code Institutes' Fullstack Web Developer program.
- 
- 
+##### This website was built as part of the learning material for Code Institutes' Fullstack Web Developer program.
 ***
 credits: 
 
 **• generated title ASCII-Font url › [patorjk.com](http://patorjk.com/software/taag/#p=display&c=bash&f=Jerusalem&t=DHSTUDIO "Title")**
 
-# CSS Transformations - Challenge 2
+### ode Institiute - CSS Transformations - Challenge 2
+
