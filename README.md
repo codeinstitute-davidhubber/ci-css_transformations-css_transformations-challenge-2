@@ -12,7 +12,7 @@
 ***
 
 ***
-#### project url: **'https://davidhubber.github.io/ci-css_transformations-css_transformations-challenge-2/'**
+#### project url: **'https://codeinstitute-davidhubber.github.io/ci-css_transformations-css_transformations-challenge-2/'**
 ***
 title: **'Code Institiute - CSS Transformations - Challenge 2'**
 
